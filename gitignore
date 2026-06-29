@@ -1,0 +1,26 @@
+# Dépendances
+node_modules/
+
+# Build / output de production
+dist/
+dist-ssr/
+
+# Fichiers d'environnement (variables sensibles, clés API...)
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Éditeurs / OS
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

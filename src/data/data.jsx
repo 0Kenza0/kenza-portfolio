@@ -73,6 +73,6 @@ export const DATA = {
   socials: [
     { label: "GitHub", url: "https://github.com/0Kenza0", icon: <FaGithub size={20} /> },
     { label: "LinkedIn", url: "https://www.linkedin.com/in/kenzachahnaz/", icon: <FaLinkedin size={20} /> },
-    { label: "CV", url: "mailto:kenzachahnaz@icloud.com", icon: <TbFileCvFilled size={20} /> }, // mettre url cv
+    { label: "CV", url: "public/CV-Alternance- CHAHNAZ- Kenza.pdf", icon: <TbFileCvFilled size={20} /> }, // mettre url cv
   ],
 };
